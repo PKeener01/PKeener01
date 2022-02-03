@@ -1,0 +1,1 @@
+gangstersNotJailed, gangstersJailed, mrBiggPersonalWealth, bribesAccepted, winner

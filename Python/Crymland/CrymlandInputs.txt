@@ -1,0 +1,13 @@
+n_thieves = 7
+heist_coef = 1000
+promotion_wealth = 5000000
+lieut_thieves = 7
+n_detectives = 100
+solve_init = .0015
+solve_cap = 1
+witnesses_needed = 4
+seize_init = 1000000
+seize_increment = 1000000
+bribe_init = .1
+det_discover_prob = .05
+weeks = 500
