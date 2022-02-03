@@ -1,0 +1,1 @@
+This is a combination of a personal project and I adapted for school.  The goal of the school project was to see if I could classify stocks into their industry based on financial ratios (ended with ~80% accuracy on test data).
